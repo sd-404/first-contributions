@@ -1,6 +1,9 @@
 # Contributors
+- Atia - first OSS contribution Yay!
 -Hariprasath
 - Git Goode
+- [Xiulei Zhu](https://github.com/acostry/)
+- [Faraz Suhail] (https://https://github.com/Faraz710)
 - [Juliano Paulo] (https://github.com/jsdie099)
 - [Kyle Paulma] (https://github.com/kylepaulma)
 - [Taha Dharamsi] (https://github.com/tahanzania)
@@ -9,9 +12,11 @@
 - [Sharique Khan] (https://github.com/sharique-tech1987)
 - Eiseid
 - jacobsb
+- Mahir Goel
 - Ghassan Alrayyes
 - Kumar Yash (https://github.com/kumaryash18)
 - Sai Raman Kilambi (https://github.com/sai-raman)
+- Brian Kozub (https://github.com/ticet11)
 - Laurynas Kerezius (https://github.com/larryare)
 - [Jacob Garcia] (https://github.com/JacobGDev)
 - Anand Krishnan (https://github.com/akrishnan93)
@@ -67,12 +72,15 @@ Nico Tek
 - [Nicky Choi](https://github.com/njch5)
 - Jordan Sills (https://github.com/JordanDSills)
 - Manu Chauhan(https://github.com/MANU-CHAUHAN)
+- Anna
 - Su Willu (https://github.com/SuWillu)
 - [Hope Miller] (https://github.com/hmiller3)
 - [Pankaj Khushalani] (https://github.com/pk-218)
 - Luis Holzer (https://github.com/Luis089)
 - Manzano Akhtar (https://github.com/manzanoakhtar7)
+- Thomas Ongley (https://github.com/thomasongley)
 - [SEYI-JS] (https://github.com/seyi-js)
+- Dillon Estrada
 - [Swapnil Sengupta] (https://github.com/Swapnil-2001)
 - [Ylem](https://github.com/ylem)
 - [AnycoK](https://github.com/AnycoK)
@@ -156,6 +164,7 @@ Jeremiah Harkins
 - pramish22 (https://github.com/pramish22)
 - rahul123@
 - [Rafael Farias Lima](https://github.com/finhaa)
+- [Mark Forsyth](https://github.com/SkeletalWaffles)
 - [dumbitdownjr] (https://github.com/dumbitdownjr)
 - zoe (https://github.com/quicksilversel)
 - [Lewis Keech](https://github.com/Lewizard98)
@@ -249,6 +258,7 @@ Jeremiah Harkins
 - Dagmar Hengesbach
 - Falguni Raina
 - malde11
+- Heidi 
 - [Michael Mamich](https://github.com/MMMamich) 🤓
 - [Lucas Amaral](https://github.com/doamaral)
 - LA
@@ -365,6 +375,7 @@ Jeremiah Harkins
 - Narendra Modi
 - Harshit Gangwar
 - Kazuma Tonegawa
+- [Kevin Tong](https://github.com/tong-kevin)
 - Akhil Murthy [https://github.com/akhilmurthy546]
 - [Ali Risheh](https://github.com/aicam)
 - [Shashank](https://github.com/shashankmotruri)
@@ -498,6 +509,7 @@ Jeremiah Harkins
 - [Sushant Kumar](https://github.com/baldraider)
 - [Aashish khatri](https://github.com/aashish-khatri)
 - [Rishabh Agarwal](https://github.com/RishabhAgarwal-2001)
+- [Daniel Floyd](https://github.com/gleekzorp)
 - [Helber Belmiro](https://github.com/hbelmiro)
 - Sitanshu
 - [Hu Yang](https://github.com/huyang117)
@@ -507,6 +519,7 @@ Jeremiah Harkins
 - [Audrey Bergeron](https://github.com/abergeron1905)
 - [Samuel Sandoval](https://github.com/samuelsandoval1)
 - [Michael King](https://github.com/michaelking178)
+- [Heith Robbins](https://github.com/HeithRobbins)
 - [Josh Valdivia 🦦](https://github.com/jlsaldana)
 - [Donald Shanty Jr.](https://github.com/clefbassman)
 - [Peter Kang](https://github.com/pswk1)
@@ -638,6 +651,7 @@ Jeremiah Harkins
 - [Tom Rowbotham](https://github.com/tomrowbo)
 - [Ajit Bhat](https://github.com/abhat3)
 - [tlylt](https://github.com/tlylt)
+- [xavierhazzardadmin](https://github.com/xavierhazzardadmin)
 - [Nicola Checcacci](https://github.com/stranicola)
 - [Sahil Bajaj](https://github.com/sahilbajaj82)
 - [Noy Wolfson](https://github.com/noywolfson)
@@ -1296,6 +1310,7 @@ Chidiogo Umezinne
 - [Jonathan Miller](https://gitlab.com/jonmiller131313)
 - [grun00](https://github.com/grun00)
 - [Shanil De Silva](https://github.com/shanil07)
+- [piotao](https://github.com/piotao)
 - [tsuno](https://gitlab.com/tsuno)
 - [luytena](https://github.com/luytena)
 - [jkrajcir](https://github.com/jkrajcir)
@@ -2038,6 +2053,7 @@ Chidiogo Umezinne
 - [Doris Verria](https://github.com/dorisverria)
 - [Ola Frankowska](https://github.com/ofrankowska)
 - [Narongrit Unwerawattana](https://github.com/kicito)
+- [Or Paz](https://github.com/orrpaz)
 - [Furkan K.](https://github.com/mfurkankara)
 - [Elizandra Dalpra](https://github.com/ElizandraDalpra)
 - [Wes Roberson](https://github.com/wesrob21)
@@ -2544,3 +2560,10 @@ amin-da
 - [Gustavo Fiuza](github.com/GusFiuza)
 - [Blessing Mbonu](https://github.com/Nkemjiks)
 - [Ritik](https://github.com/Foxtrot123-png)
+- [Samed Touati](https://github.com/sd-404)
+- [TR Fung](https://github.com/trfung)
+- [Sree Dasari](https://github.com/sreedasari)
+- [Sudha Kaushik](https://github.com/sudhakaushik)
+- [Katie Greathouse](https://github.com/ktgreathouse)
+- [bleirdalag](https://github.com/bleirdalag)
+- [Sterling Watts](https://github.com/SterlingDWatts)
